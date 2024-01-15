@@ -36,4 +36,5 @@ Make sure you have Java installed on your system.
 
 ## Screenshots
 
-![Task List]("C:\Users\myema\OneDrive\Pictures\Screenshots\TaskManager-Project.png")
+![Task List](![image](https://github.com/spopal22/TaskManager-Project/assets/143114700/f0f5fc73-9d0c-457c-94bc-c3db1f24da00)
+)
