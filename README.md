@@ -36,4 +36,4 @@ Make sure you have Java installed on your system.
 
 ## Screenshots
 
-![Task List](https://github.com/spopal22/TaskManager-Project/assets/143114700/f0f5fc73-9d0c-457c-94bc-c3db1f24da00)
+![Task List]((https://github.com/spopal22/TaskManager-Project/assets/143114700/6f18b48c-1893-4bc9-9c4d-543461da3413))
