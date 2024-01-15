@@ -1,7 +1,5 @@
 # Task Management System
 
-![Task Management System Logo](url-to-your-logo.png)
-
 ## Overview
 
 The Task Management System is a simple and intuitive application designed to help users manage their tasks efficiently. It allows users to add, complete, and delete tasks, as well as export and import tasks for easy data management.
