@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Task Management System is a simple and intuitive application designed to help users manage their tasks efficiently. It allows users to add, complete, and delete tasks, as well as export and import tasks for easy data management.
+The Task Management System is a simple and intuitive application designed to help users manage their tasks efficiently. It leverages key data structures to enhance performance and provide a seamless user experience. It allows users to add, complete, and delete tasks, as well as export and import tasks for easy data management.
 
 ## Features
 
@@ -10,6 +10,13 @@ The Task Management System is a simple and intuitive application designed to hel
 - **Mark as Complete:** Mark tasks as complete to track progress.
 - **Delete Task:** Remove tasks that are no longer needed.
 - **Export/Import Tasks:** Save and load tasks to and from files for data backup and transfer.
+
+## Key Data Structures
+
+The project utilizes the following essential data structures:
+
+- **HashMap:** Efficiently stores tasks, providing fast retrieval and storage based on task names.
+- **DefaultListModel:** Powers the task list in the graphical user interface, dynamically updating as tasks are added, completed, or deleted.
 
 ## Getting Started
 
@@ -26,3 +33,7 @@ Make sure you have Java installed on your system.
 1. Launch the application.
 2. Use the buttons to add, complete, and delete tasks.
 3. Export and import tasks for data management.
+
+## Screenshots
+
+![Task List]("C:\Users\myema\OneDrive\Pictures\Screenshots\TaskManager-Project.png")
