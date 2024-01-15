@@ -2,13 +2,13 @@
 
 ## Overview
 
-The Task Management System is a simple and intuitive application designed to help users manage their tasks efficiently. It leverages key data structures to enhance performance and provide a seamless user experience. It allows users to add, complete, and delete tasks, as well as export and import tasks for easy data management.
+The Task Management System is a simple and intuitive application designed to help users manage their tasks efficiently. It leverages key data structures to enhance performance and provide a seamless user experience, namely HashMaps and a List Model. It allows users to add, complete, and delete tasks, as well as export and import tasks for easy data management.
 
 ## Features
 
-- **Add Task:** Easily add a new task with details such as name, description, priority, and due date.
+- **Add Task:** Add a new task with details such as name, description, priority, and due date.
 - **Mark as Complete:** Mark tasks as complete to track progress.
-- **Delete Task:** Remove tasks that are no longer needed.
+- **Delete Task:** Remove tasks that are no longer needed or have been completed.
 - **Export/Import Tasks:** Save and load tasks to and from files for data backup and transfer.
 
 ## Key Data Structures
@@ -31,9 +31,10 @@ Make sure you have Java installed on your system.
 ## Usage
 
 1. Launch the application.
-2. Use the buttons to add, complete, and delete tasks.
-3. Export and import tasks for data management.
+2. Use the buttons to add, complete, delete, import, and export tasks.
+3. Enter all relevant information about the tasks.
+4. Export and import tasks for data management.
 
 ## Screenshots
 
-![Task List]((https://github.com/spopal22/TaskManager-Project/assets/143114700/6f18b48c-1893-4bc9-9c4d-543461da3413))
+![Task List](https://github.com/spopal22/TaskManager-Project/assets/143114700/6f18b48c-1893-4bc9-9c4d-543461da3413)
